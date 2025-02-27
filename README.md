@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Keith, a passionate Site Reliability Engineer (SRE) with a focus on ensuring the reliability, scalability, and performance of complex systems.
+I'm Keith, an aspiring  Site Reliability Engineer (SRE) with a focus on ensuring the reliability, scalability, and performance of complex systems.
 
 ### About Me
 
