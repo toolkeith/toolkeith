@@ -25,4 +25,4 @@ I'm Keith, a passionate Site Reliability Engineer (SRE) with a focus on ensuring
 - **[Project Name](link-to-project):** Brief description of the project and your role in it.
 - **[Another Project](link-to-project):** Brief description of the project and your role in it.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my [GitHub repositories](https://github.com/toolkeith) for more information.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sevillakeithbryan) or check out my [GitHub repositories](https://github.com/toolkeith) for more information.
